@@ -6,4 +6,4 @@ cd XEROX-BOMBER
 
 ls
 
-python XEROX-BOMBER.py
+python3 XEROX-BOMBER.py
